@@ -1,20 +1,24 @@
-# Adem Chaoua
-
-### A passionate full-stack developer from Algeria
-
----
+<h1 align="center">Hi 👋, I'm Adem Chaoua</h1>
+<h3 align="center">I am a full-stack developer with a strong passion for creating innovative and efficient solutions. With a solid foundation in both front-end and back-end technologies, I strive to build applications that are not only functional but also user-friendly. Currently, I am working on [Intisharya](#), a project aimed at [brief project description]. I am also enhancing my skills in mobile app development, specifically with Node.js.</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ademchaoua&style=flat-square&color=blue)
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ademchaoua" alt="ademchaoua" /></a> </p>
 
-I'm currently working on [Intisharya](#) and learning mobile app development with Node.js.
+
+### Skills and Expertise
+- **Front-End Development**: Proficient in HTML, CSS, and JavaScript to build responsive and interactive user interfaces.
+- **Back-End Development**: Experienced in server-side programming with Node.js and PHP, and adept at creating RESTful APIs.
+- **Database Management**: Skilled in working with SQL and NoSQL databases, ensuring data integrity and optimal performance.
+- **DevOps**: Knowledgeable in deploying applications using Docker and managing cloud services with AWS.
+- **Problem Solving**: Strong analytical skills to troubleshoot issues and optimize code for better performance.
 
 ### Contact
 - **Email**: [adem.chaoua1444@gmail.com](mailto:adem.chaoua1444@gmail.com)
 
 ### Connect with Me
 - [Instagram](https://instagram.com/8u07_)
+- [Telegram](https://t.me/was_ademchaoua)
 
 ---
 
@@ -29,31 +33,14 @@ I'm currently working on [Intisharya](#) and learning mobile app development wit
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  |
 
----
-
-## Most Used Languages
-
-![PHP](https://img.shields.io/badge/PHP-76.68%25?style=for-the-badge&logo=php&logoColor=white)
-![Hack](https://img.shields.io/badge/Hack-23.14%25?style=for-the-badge&logo=hack&logoColor=white)
 
 ---
 
-## Adem Chaoua's GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ademchaoua&show_icons=true&locale=en&layout=compact" alt="ademchaoua" /></p>
 
-|   |   |
-|---|---|
-| **Total Stars Earned** | 0 |
-| **Total Commits (2024)** | 19 |
-| **Total PRs** | 0 |
-| **Total Issues** | 0 |
-| **Contributed to (last year)** | 0 |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ademchaoua&show_icons=true&locale=en" alt="ademchaoua" /></p>
 
----
-
-|   |   |   |
-|---|---|---|
-| **Total Contributions** | **Current Streak** | **Longest Streak** |
-| 22 | 2 (May 20 - May 21) | 2 (May 20 - May 21) |
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ademchaoua&" alt="ademchaoua" /></p>
 
 ---
 
