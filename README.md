@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adem Chaoua</h1>
-<h3 align="center">I am a full-stack developer with a strong passion for creating innovative and efficient solutions. With a solid foundation in both front-end and back-end technologies, I strive to build applications that are not only functional but also user-friendly. Currently, I am working on [Intisharya](#), a project aimed at [brief project description]. I am also enhancing my skills in mobile app development, specifically with Node.js.</h3>
+<h3 align="center">I am a full-stack developer with a strong passion for creating innovative and efficient solutions. With a solid foundation in both front-end and back-end technologies, I strive to build applications that are not only functional but also user-friendly. Currently, I am working on [Intisharya](#). I am also enhancing my skills in mobile app development, specifically with Node.js.</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ademchaoua&style=flat-square&color=blue)
 
