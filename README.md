@@ -14,7 +14,7 @@
 - **Problem Solving**: Strong analytical skills to troubleshoot issues and optimize code for better performance.
 
 ### Contact
-- **Email**: [adem.chaoua1444@gmail.com](mailto:adem.chaoua1444@gmail.com)
+- **Email**: [adem.chaoua.1444@gmail.com](mailto:adem.chaoua.1444@gmail.com)
 
 ### Connect with Me
 - [Instagram](https://instagram.com/8u07_)
